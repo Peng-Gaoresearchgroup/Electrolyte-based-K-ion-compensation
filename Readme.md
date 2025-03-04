@@ -1,6 +1,6 @@
 # KSCN in Electrolytes Compensates K Ions
 ### Introduction
-Scripts from the manuscript W. Wang, et al. Compensating K Ions through an Organic Salt in Electrolytes for Practical K-Ion Batteries.
+Scripts from the manuscript W. Wang, et al. Compensating K Ions Through an Organic Salt in Electrolytes for Practical K-Ion Batteries.
 
 ### Contents
 - **Data folder** includes a [molecules.xlsx](./Data/molecules.xlsx), which is a input file for hierarchical clustering.
